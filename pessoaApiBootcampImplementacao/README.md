@@ -1,4 +1,4 @@
-<h2>Projeto Bootcamp GFT - Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot</h2>
+<h2>Projeto Bootcamp GFT / BootCamp Santander - Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot</h2>
 
 Foram desenvolvidas aulas pela plataforma DIO - Digital Innovation One onde desenvolveu um pequeno sistema para o 
 gerenciamento de pessoas de uma empresa através de uma API REST, criada com o Spring Boot.
